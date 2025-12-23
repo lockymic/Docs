@@ -1,6 +1,6 @@
 # Terms of Service for Sudoku App
 
-**Last Updated:** December 9, 2024
+**Last Updated:** December 23, 2025
 
 ## 1. Acceptance of Terms
 
@@ -9,8 +9,10 @@ By downloading, installing, or using Sudoku ("the app"), you agree to be bound b
 ## 2. Description of Service
 
 Sudoku is a puzzle game application that provides:
-- Sudoku puzzles at various difficulty levels
+- Sudoku puzzles at various difficulty levels (Easy, Medium, Hard, Expert, Pro, Master)
+- Custom difficulty mode with adjustable settings
 - Game statistics and progress tracking
+- Cloud save functionality with multiple save slots
 - Global leaderboards (optional)
 - Daily challenges
 - Premium subscription options
@@ -19,7 +21,7 @@ Sudoku is a puzzle game application that provides:
 ## 3. User Accounts
 
 ### 3.1 Account Creation
-- You may create an account using Sign in with Apple or Google Sign-In
+- You may create an account using Sign in with Apple, Google Sign-In, or Facebook Login
 - You are responsible for maintaining the security of your account
 - You must provide accurate information
 - You must be at least 13 years old to create an account
@@ -44,6 +46,10 @@ Sudoku is a puzzle game application that provides:
 ### 4.2 Subscription Benefits
 - Remove all advertisements
 - Unlimited undo (free users see ads for undo)
+- Access to Pro and Master difficulty levels
+- Access to custom difficulty mode
+- Higher hint limits (5 hints and unlimited options)
+- Cloud save with 3 save slots
 - Priority support
 
 ### 4.3 Auto-Renewal
@@ -54,6 +60,7 @@ Sudoku is a puzzle game application that provides:
 ### 4.4 Free Trial
 - If a free trial is offered, you will be charged when the trial ends unless cancelled
 - Cancel anytime during the trial to avoid charges
+- Trial period is 7 days
 
 ### 4.5 Refunds
 - Refund requests are handled by Apple App Store or Google Play Store
@@ -76,7 +83,19 @@ Sudoku is a puzzle game application that provides:
 - Use "Restore Purchases" in the app settings
 - Must use the same Apple ID or Google account
 
-## 6. Acceptable Use
+## 6. Cloud Save Feature
+
+### 6.1 Save Slots
+- Premium users have access to 3 cloud save slots
+- Save slots sync across all devices linked to your account
+- You can delete individual save slots at any time
+
+### 6.2 Data Sync
+- Cloud sync requires an active internet connection
+- We are not responsible for data loss due to sync conflicts
+- Local saves are maintained as backup
+
+## 7. Acceptable Use
 
 You agree NOT to:
 - Cheat or manipulate leaderboards
@@ -88,65 +107,66 @@ You agree NOT to:
 - Attempt to access other users' accounts
 - Interfere with the app's operation
 - Use the app for commercial purposes without permission
+- Exploit bugs or glitches for unfair advantage
 
-## 7. Leaderboards and User Content
+## 8. Leaderboards and User Content
 
-### 7.1 Public Information
+### 8.1 Public Information
 - Leaderboard scores (display name and completion times) are public
 - Do not use offensive or inappropriate display names
 - We reserve the right to remove inappropriate content
 
-### 7.2 Accuracy
+### 8.2 Accuracy
 - We do not guarantee the accuracy of leaderboard rankings
 - Suspicious scores may be removed
 - Cheating may result in account termination
 
-## 8. Intellectual Property
+## 9. Intellectual Property
 
-### 8.1 App Ownership
+### 9.1 App Ownership
 - The app, including all content, features, and functionality, is owned by us
 - You receive a limited, non-exclusive, non-transferable license to use the app
 - You may not copy, modify, distribute, or create derivative works
 
-### 8.2 Trademarks
+### 9.2 Trademarks
 - "Sudoku" is a generic term for the puzzle type
 - App design, logo, and specific features are our intellectual property
 
-## 9. Advertising
+## 10. Advertising
 
-### 9.1 Ad-Supported Version
+### 10.1 Ad-Supported Version
 - The free version displays advertisements
 - Ads are served by Google AdMob and third-party networks
 - You can remove ads with a premium subscription
 
-### 9.2 Ad Tracking
+### 10.2 Ad Tracking
 - Ads may use tracking technologies
 - You can limit ad tracking in your device settings
 - See our Privacy Policy for details
 
-## 10. Disclaimers
+## 11. Disclaimers
 
-### 10.1 "As Is" Service
+### 11.1 "As Is" Service
 THE APP IS PROVIDED "AS IS" WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED.
 
-### 10.2 No Guarantee
+### 11.2 No Guarantee
 We do not guarantee:
 - Uninterrupted or error-free operation
 - Specific outcomes or achievements
 - Compatibility with all devices
 - Availability of all features in all regions
 
-### 10.3 Third-Party Services
-We are not responsible for third-party services (Apple, Google, ad networks)
+### 11.3 Third-Party Services
+We are not responsible for third-party services (Apple, Google, Facebook, ad networks)
 
-## 11. Limitation of Liability
+## 12. Limitation of Liability
 
 TO THE MAXIMUM EXTENT PERMITTED BY LAW:
 - We are not liable for indirect, incidental, or consequential damages
 - Our total liability is limited to the amount you paid in the last 12 months
 - We are not liable for loss of data, profits, or business interruption
 
-## 12. Changes to Terms
+## 13. Changes to Terms
 
 We may modify these Terms at any time. Changes will be effective:
 - Upon posting the updated Terms with a new "Last Updated" date
@@ -158,26 +178,26 @@ Material changes will be communicated via:
 - Email (if you've provided one)
 - Prominent notice in the app
 
-## 13. Termination
+## 14. Termination
 
-### 13.1 By You
+### 14.1 By You
 - You may stop using the app at any time
 - You may delete your account in the app settings
 - Cancelling subscriptions does not delete your account
 
-### 13.2 By Us
+### 14.2 By Us
 We may suspend or terminate access if you:
 - Violate these Terms
 - Engage in fraudulent activity
 - Abuse the service
 - Post inappropriate content
 
-### 13.3 Effect of Termination
+### 14.3 Effect of Termination
 - Access to premium features ends immediately
 - Subscriptions may be refunded at Apple/Google's discretion
 - Account data will be deleted within 30 days
 
-## 14. Governing Law
+## 15. Governing Law
 
 These Terms are governed by the laws of Italy.
 
@@ -186,18 +206,18 @@ Disputes will be resolved through:
 2. Binding arbitration (if negotiation fails)
 3. Small claims court (for qualifying claims)
 
-## 15. Severability
+## 16. Severability
 
 If any provision of these Terms is found invalid, the remaining provisions remain in effect.
 
-## 16. Contact Us
+## 17. Contact Us
 
 For questions about these Terms:
 
 **Email:** lockymic@michaellockyer.com
-**GitHub:** https://github.com/lockymic/sudoku
+**GitHub:** https://github.com/lockymic/Docs
 
-## 17. Entire Agreement
+## 18. Entire Agreement
 
 These Terms constitute the entire agreement between you and us regarding the app.
 
